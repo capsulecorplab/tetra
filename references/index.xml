@@ -233,6 +233,25 @@
 &lt;div class="paragraph">
 &lt;p>The Project Tetra’s stakeholder concerns are then used to identify a series of user stories to capture the functional requirements of the Project Tetra project.&lt;/p>
 &lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_1_volume_adjustment">1: Volume Adjustment&lt;/h3>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="paragraph">
+&lt;p>As a &lt;strong>Clinician&lt;/strong> I want to &lt;strong>individually adjust valves&lt;/strong> so that I can &lt;strong>control volumetric flowrate per patient&lt;/strong>.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_example">Example:&lt;/h4>
+&lt;div class="paragraph">
+&lt;p>Adjusting flow for each patient, decreasing PIP for the healthier lungs, and increasing PIP for the less healthy patient.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_derived_from">&lt;strong>Derived From:&lt;/strong>&lt;/h4>
+&lt;/div>
+&lt;/div>
 &lt;/div>
 &lt;/div></description></item><item><title>References: Hardware Requirements Outline</title><link>https://tetrabiodistributed.github.io/tetra/references/hardware-requirements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tetrabiodistributed.github.io/tetra/references/hardware-requirements/</guid><description>
 &lt;div class="sect1">
@@ -1166,6 +1185,25 @@
 &lt;div class="sectionbody">
 &lt;div class="paragraph">
 &lt;p>The Project Tetra’s stakeholder concerns are then used to identify a series of user stories to capture the functional requirements of the Project Tetra project.&lt;/p>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_1_volume_adjustment">1: Volume Adjustment&lt;/h3>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="paragraph">
+&lt;p>As a &lt;strong>Clinician&lt;/strong> I want to &lt;strong>individually adjust valves&lt;/strong> so that I can &lt;strong>control volumetric flowrate per patient&lt;/strong>.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_example">Example:&lt;/h4>
+&lt;div class="paragraph">
+&lt;p>Adjusting flow for each patient, decreasing PIP for the healthier lungs, and increasing PIP for the less healthy patient.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_derived_from">&lt;strong>Derived From:&lt;/strong>&lt;/h4>
+&lt;/div>
 &lt;/div>
 &lt;/div>
 &lt;/div></description></item></channel></rss>
