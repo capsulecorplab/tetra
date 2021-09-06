@@ -88,9 +88,10 @@ elements:
     behavior: individually adjust valves
     rationale: control volumetric flowrate per patient
     derivedFrom:
-      - 01-VolumesFillMostCompliantLungSegment.yaml
-      - 05-IndividualizedManagementForClinicalImprovement.yaml
-      - 09-PatientsDeteriorateAndRecoverAtDifferentRates.yaml
+      - 1-StakeholderNeeds/01-VolumesFillMostCompliantLungSegment.yaml
+      - >-
+        1-StakeholderNeeds/05-IndividualizedManagementForClinicalImprovement.yaml
+      - 1-StakeholderNeeds/09-PatientsDeteriorateAndRecoverAtDifferentRates.yaml
     example: >-
       Adjusting flow for each patient, decreasing PIP for the healthier lungs,
       and increasing PIP for the less healthy patient.
