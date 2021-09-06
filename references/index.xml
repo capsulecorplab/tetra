@@ -1,24 +1,240 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Project Tetra – References</title><link>https://tetrabiodistributed.github.io/project-tetra-docs/references/</link><description>Recent content in References on Project Tetra</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://tetrabiodistributed.github.io/project-tetra-docs/references/index.xml" rel="self" type="application/rss+xml"/><item><title>References: Splitter Assembly</title><link>https://tetrabiodistributed.github.io/project-tetra-docs/references/ibd-system-ventilator-splitter-assembly-airflow/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tetrabiodistributed.github.io/project-tetra-docs/references/ibd-system-ventilator-splitter-assembly-airflow/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Project Tetra – References</title><link>https://tetrabiodistributed.github.io/tetra/references/</link><description>Recent content in References on Project Tetra</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://tetrabiodistributed.github.io/tetra/references/index.xml" rel="self" type="application/rss+xml"/><item><title>References: Splitter Assembly</title><link>https://tetrabiodistributed.github.io/tetra/references/ibd-system-ventilator-splitter-assembly-airflow/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tetrabiodistributed.github.io/tetra/references/ibd-system-ventilator-splitter-assembly-airflow/</guid><description>
 &lt;div class="imageblock">
 &lt;div class="content">
 &lt;img src="ibd-system-ventilator-splitter-assembly-airflow.svg" alt="ibd system ventilator splitter assembly airflow" width="1938" height="343"/>
 &lt;/div>
-&lt;/div></description></item><item><title>References: Electronic Sensing System</title><link>https://tetrabiodistributed.github.io/project-tetra-docs/references/ibd-system-electronic-sensing-system-dataflow/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tetrabiodistributed.github.io/project-tetra-docs/references/ibd-system-electronic-sensing-system-dataflow/</guid><description>
+&lt;/div></description></item><item><title>References: Electronic Sensing System</title><link>https://tetrabiodistributed.github.io/tetra/references/ibd-system-electronic-sensing-system-dataflow/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tetrabiodistributed.github.io/tetra/references/ibd-system-electronic-sensing-system-dataflow/</guid><description>
 &lt;div class="imageblock">
 &lt;div class="content">
 &lt;img src="ibd-system-electronic-sensing-system-dataflow.svg" alt="ibd system electronic sensing system dataflow" width="3866" height="704"/>
 &lt;/div>
-&lt;/div></description></item><item><title>References: Stakeholder Concerns &amp; Requirements</title><link>https://tetrabiodistributed.github.io/project-tetra-docs/references/stakeholder-concerns-and-requirements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tetrabiodistributed.github.io/project-tetra-docs/references/stakeholder-concerns-and-requirements/</guid><description>
-&lt;div class="imageblock">
+&lt;/div></description></item><item><title>References: Stakeholder Concerns &amp; Requirements</title><link>https://tetrabiodistributed.github.io/tetra/references/stakeholder-concerns-and-requirements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tetrabiodistributed.github.io/tetra/references/stakeholder-concerns-and-requirements/</guid><description>
+&lt;div id="preamble">
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>&lt;span class="image">&lt;a class="image" href="https://opensource.org/licenses/MIT">&lt;img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License"/>&lt;/a>&lt;/span>
+&lt;span class="image">&lt;a class="image" href="https://github.com/tetrabiodistributed/tetra.git">&lt;img src="https://img.shields.io/badge/Contribute%20on-GitHub-orange" alt="Contribute on GitHub"/>&lt;/a>&lt;/span>
+&lt;span class="image">&lt;a class="image" href="https://tetrabiodistributed.github.io/tetra/tetra-requirements.pdf">&lt;img src="https://img.shields.io/badge/Download%20-PDF-blue" alt="Download PDF"/>&lt;/a>&lt;/span>&lt;/p>
+&lt;/div>
+&lt;div style="page-break-after: always;">&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_stakeholder_concerns">Stakeholder Concerns&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>The Project Tetra is guided by a series of stakeholder concerns, listed below.&lt;/p>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_1_volumes_fill_most_compliant_lung_segment">1: Volumes fill most compliant lung segment&lt;/h3>
+&lt;div class="sidebarblock">
 &lt;div class="content">
-&lt;img src="pkg-stakeholder-concerns.svg" alt="pkg stakeholder concerns" width="537" height="1332"/>
+&lt;div class="paragraph">
+&lt;p>Volumes would go to the most compliant lung segments&lt;/p>
 &lt;/div>
 &lt;/div>
-&lt;div class="imageblock">
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_reference">&lt;strong>Reference:&lt;/strong>&lt;/h4>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.asahq.org/about-asa/newsroom/news-releases/2020/03/joint-statement-on-multiple-patients-per-ventilator">Joint Statement on Multiple Patients Per Ventilator&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_2_peep_would_be_impossible_to_manage">2: PEEP would be impossible to manage&lt;/h3>
+&lt;div class="sidebarblock">
 &lt;div class="content">
-&lt;img src="pkg-requirements.svg" alt="pkg requirements" width="1485" height="1333"/>
+&lt;div class="paragraph">
+&lt;p>Positive end‐expiratory pressure (PEEP), which is of critical importance in these patients, would be impossible to manage.&lt;/p>
 &lt;/div>
-&lt;/div></description></item><item><title>References: Hardware Requirements Outline</title><link>https://tetrabiodistributed.github.io/project-tetra-docs/references/hardware-requirements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tetrabiodistributed.github.io/project-tetra-docs/references/hardware-requirements/</guid><description>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_reference_2">&lt;strong>Reference:&lt;/strong>&lt;/h4>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.asahq.org/about-asa/newsroom/news-releases/2020/03/joint-statement-on-multiple-patients-per-ventilator">Joint Statement on Multiple Patients Per Ventilator&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_3_monitoring_pulmonary_mechanics_impossible">3: Monitoring pulmonary mechanics impossible&lt;/h3>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="paragraph">
+&lt;p>Monitoring patients and measuring pulmonary mechanics would be challenging, if not impossible.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_reference_3">&lt;strong>Reference:&lt;/strong>&lt;/h4>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.asahq.org/about-asa/newsroom/news-releases/2020/03/joint-statement-on-multiple-patients-per-ventilator">Joint Statement on Multiple Patients Per Ventilator&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_4_alarm_monitoring_infeasible">4: Alarm monitoring infeasible&lt;/h3>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="paragraph">
+&lt;p>Alarm monitoring and management would not be feasible.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_reference_4">&lt;strong>Reference:&lt;/strong>&lt;/h4>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.asahq.org/about-asa/newsroom/news-releases/2020/03/joint-statement-on-multiple-patients-per-ventilator">Joint Statement on Multiple Patients Per Ventilator&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_5_individualized_management_for_clinical_improvement">5: Individualized management for clinical improvement&lt;/h3>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="paragraph">
+&lt;p>Individualized management for clinical improvement or deterioration would be impossible.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_reference_5">&lt;strong>Reference:&lt;/strong>&lt;/h4>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.asahq.org/about-asa/newsroom/news-releases/2020/03/joint-statement-on-multiple-patients-per-ventilator">Joint Statement on Multiple Patients Per Ventilator&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_6_stop_ventilation_in_the_event_of_cardiac_arrest">6: Stop ventilation in the event of cardiac arrest&lt;/h3>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="paragraph">
+&lt;p>In the case of a cardiac arrest, ventilation to all patients would need to be stopped to allow the change to bag ventilation without aerosolizing the virus and exposing healthcare workers.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_reference_6">&lt;strong>Reference:&lt;/strong>&lt;/h4>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.asahq.org/about-asa/newsroom/news-releases/2020/03/joint-statement-on-multiple-patients-per-ventilator">Joint Statement on Multiple Patients Per Ventilator&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_7_added_circuit_volume">7: Added circuit volume&lt;/h3>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="paragraph">
+&lt;p>The added circuit volume defeats the operational self‐test (the test fails).&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_reference_7">&lt;strong>Reference:&lt;/strong>&lt;/h4>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.asahq.org/about-asa/newsroom/news-releases/2020/03/joint-statement-on-multiple-patients-per-ventilator">Joint Statement on Multiple Patients Per Ventilator&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_8_external_monitoring_required">8: External monitoring required&lt;/h3>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="paragraph">
+&lt;p>Additional external monitoring would be required. The ventilator monitors the average pressures and volumes.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_reference_8">&lt;strong>Reference:&lt;/strong>&lt;/h4>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.asahq.org/about-asa/newsroom/news-releases/2020/03/joint-statement-on-multiple-patients-per-ventilator">Joint Statement on Multiple Patients Per Ventilator&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_9_patients_deteriorate_and_recover_at_different_rates">9: Patients deteriorate and recover at different rates.&lt;/h3>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="paragraph">
+&lt;p>Patients deteriorate and recover at different rates, and distribution of gas to each patient would be unequal and unmonitored.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_reference_9">&lt;strong>Reference:&lt;/strong>&lt;/h4>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.asahq.org/about-asa/newsroom/news-releases/2020/03/joint-statement-on-multiple-patients-per-ventilator">Joint Statement on Multiple Patients Per Ventilator&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_10_greatest_risk_with_sudden_deterioration">10: Greatest risk with sudden deterioration&lt;/h3>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="paragraph">
+&lt;p>The greatest risks occur with sudden deterioration of a single patient (e.g., pneumothorax, kinked endotracheal tube), with the balance of ventilation distributed to the other patients.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_reference_10">&lt;strong>Reference:&lt;/strong>&lt;/h4>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.asahq.org/about-asa/newsroom/news-releases/2020/03/joint-statement-on-multiple-patients-per-ventilator">Joint Statement on Multiple Patients Per Ventilator&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_user_stories">User Stories&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>The Project Tetra’s stakeholder concerns are then used to identify a series of user stories to capture the functional requirements of the Project Tetra project.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title>References: Hardware Requirements Outline</title><link>https://tetrabiodistributed.github.io/tetra/references/hardware-requirements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tetrabiodistributed.github.io/tetra/references/hardware-requirements/</guid><description>
 &lt;div class="sect1">
 &lt;h2 id="_section_formatting">Section formatting&lt;/h2>
 &lt;div class="sectionbody">
@@ -724,6 +940,232 @@
 &lt;/ul>
 &lt;/div>
 &lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title>References:</title><link>https://tetrabiodistributed.github.io/tetra/references/dist/tetra-requirements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tetrabiodistributed.github.io/tetra/references/dist/tetra-requirements/</guid><description>
+&lt;div id="preamble">
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>&lt;span class="image">&lt;a class="image" href="https://opensource.org/licenses/MIT">&lt;img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License"/>&lt;/a>&lt;/span>
+&lt;span class="image">&lt;a class="image" href="https://github.com/tetrabiodistributed/tetra.git">&lt;img src="https://img.shields.io/badge/Contribute%20on-GitHub-orange" alt="Contribute on GitHub"/>&lt;/a>&lt;/span>
+&lt;span class="image">&lt;a class="image" href="https://tetrabiodistributed.github.io/tetra/tetra-requirements.pdf">&lt;img src="https://img.shields.io/badge/Download%20-PDF-blue" alt="Download PDF"/>&lt;/a>&lt;/span>&lt;/p>
+&lt;/div>
+&lt;div style="page-break-after: always;">&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_stakeholder_concerns">Stakeholder Concerns&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>The Project Tetra is guided by a series of stakeholder concerns, listed below.&lt;/p>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_1_volumes_fill_most_compliant_lung_segment">1: Volumes fill most compliant lung segment&lt;/h3>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="paragraph">
+&lt;p>Volumes would go to the most compliant lung segments&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_reference">&lt;strong>Reference:&lt;/strong>&lt;/h4>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.asahq.org/about-asa/newsroom/news-releases/2020/03/joint-statement-on-multiple-patients-per-ventilator">Joint Statement on Multiple Patients Per Ventilator&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_2_peep_would_be_impossible_to_manage">2: PEEP would be impossible to manage&lt;/h3>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="paragraph">
+&lt;p>Positive end‐expiratory pressure (PEEP), which is of critical importance in these patients, would be impossible to manage.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_reference_2">&lt;strong>Reference:&lt;/strong>&lt;/h4>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.asahq.org/about-asa/newsroom/news-releases/2020/03/joint-statement-on-multiple-patients-per-ventilator">Joint Statement on Multiple Patients Per Ventilator&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_3_monitoring_pulmonary_mechanics_impossible">3: Monitoring pulmonary mechanics impossible&lt;/h3>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="paragraph">
+&lt;p>Monitoring patients and measuring pulmonary mechanics would be challenging, if not impossible.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_reference_3">&lt;strong>Reference:&lt;/strong>&lt;/h4>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.asahq.org/about-asa/newsroom/news-releases/2020/03/joint-statement-on-multiple-patients-per-ventilator">Joint Statement on Multiple Patients Per Ventilator&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_4_alarm_monitoring_infeasible">4: Alarm monitoring infeasible&lt;/h3>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="paragraph">
+&lt;p>Alarm monitoring and management would not be feasible.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_reference_4">&lt;strong>Reference:&lt;/strong>&lt;/h4>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.asahq.org/about-asa/newsroom/news-releases/2020/03/joint-statement-on-multiple-patients-per-ventilator">Joint Statement on Multiple Patients Per Ventilator&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_5_individualized_management_for_clinical_improvement">5: Individualized management for clinical improvement&lt;/h3>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="paragraph">
+&lt;p>Individualized management for clinical improvement or deterioration would be impossible.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_reference_5">&lt;strong>Reference:&lt;/strong>&lt;/h4>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.asahq.org/about-asa/newsroom/news-releases/2020/03/joint-statement-on-multiple-patients-per-ventilator">Joint Statement on Multiple Patients Per Ventilator&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_6_stop_ventilation_in_the_event_of_cardiac_arrest">6: Stop ventilation in the event of cardiac arrest&lt;/h3>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="paragraph">
+&lt;p>In the case of a cardiac arrest, ventilation to all patients would need to be stopped to allow the change to bag ventilation without aerosolizing the virus and exposing healthcare workers.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_reference_6">&lt;strong>Reference:&lt;/strong>&lt;/h4>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.asahq.org/about-asa/newsroom/news-releases/2020/03/joint-statement-on-multiple-patients-per-ventilator">Joint Statement on Multiple Patients Per Ventilator&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_7_added_circuit_volume">7: Added circuit volume&lt;/h3>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="paragraph">
+&lt;p>The added circuit volume defeats the operational self‐test (the test fails).&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_reference_7">&lt;strong>Reference:&lt;/strong>&lt;/h4>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.asahq.org/about-asa/newsroom/news-releases/2020/03/joint-statement-on-multiple-patients-per-ventilator">Joint Statement on Multiple Patients Per Ventilator&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_8_external_monitoring_required">8: External monitoring required&lt;/h3>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="paragraph">
+&lt;p>Additional external monitoring would be required. The ventilator monitors the average pressures and volumes.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_reference_8">&lt;strong>Reference:&lt;/strong>&lt;/h4>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.asahq.org/about-asa/newsroom/news-releases/2020/03/joint-statement-on-multiple-patients-per-ventilator">Joint Statement on Multiple Patients Per Ventilator&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_9_patients_deteriorate_and_recover_at_different_rates">9: Patients deteriorate and recover at different rates.&lt;/h3>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="paragraph">
+&lt;p>Patients deteriorate and recover at different rates, and distribution of gas to each patient would be unequal and unmonitored.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_reference_9">&lt;strong>Reference:&lt;/strong>&lt;/h4>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.asahq.org/about-asa/newsroom/news-releases/2020/03/joint-statement-on-multiple-patients-per-ventilator">Joint Statement on Multiple Patients Per Ventilator&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_10_greatest_risk_with_sudden_deterioration">10: Greatest risk with sudden deterioration&lt;/h3>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="paragraph">
+&lt;p>The greatest risks occur with sudden deterioration of a single patient (e.g., pneumothorax, kinked endotracheal tube), with the balance of ventilation distributed to the other patients.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_reference_10">&lt;strong>Reference:&lt;/strong>&lt;/h4>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.asahq.org/about-asa/newsroom/news-releases/2020/03/joint-statement-on-multiple-patients-per-ventilator">Joint Statement on Multiple Patients Per Ventilator&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_user_stories">User Stories&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>The Project Tetra’s stakeholder concerns are then used to identify a series of user stories to capture the functional requirements of the Project Tetra project.&lt;/p>
 &lt;/div>
 &lt;/div>
 &lt;/div></description></item></channel></rss>
