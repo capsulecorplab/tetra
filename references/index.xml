@@ -265,6 +265,35 @@
 &lt;/div>
 &lt;/div>
 &lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_2_matching_protocols">2: Matching Protocols&lt;/h3>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="paragraph">
+&lt;p>As a &lt;strong>Clinician&lt;/strong> I want to &lt;strong>[object Object]&lt;/strong> so that I can &lt;strong>maintain matching protocols per patient volume&lt;/strong>.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_example_2">Example:&lt;/h4>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_derived_from_2">&lt;strong>Derived From:&lt;/strong>&lt;/h4>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="tetra-requirements.html#_1_volumes_fill_most_compliant_lung_segment">Volumes fill most compliant lung segment&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="tetra-requirements.html#_5_individualized_management_for_clinical_improvement">Individualized management for clinical improvement&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="tetra-requirements.html#_9_patients_deteriorate_and_recover_at_different_rates.">Patients deteriorate and recover at different rates.&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div>
 &lt;/div>
 &lt;/div></description></item><item><title>References: Hardware Requirements Outline</title><link>https://tetrabiodistributed.github.io/tetra/references/hardware-requirements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tetrabiodistributed.github.io/tetra/references/hardware-requirements/</guid><description>
 &lt;div class="sect1">
@@ -1216,6 +1245,35 @@
 &lt;/div>
 &lt;div class="sect3">
 &lt;h4 id="_derived_from">&lt;strong>Derived From:&lt;/strong>&lt;/h4>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="tetra-requirements.html#_1_volumes_fill_most_compliant_lung_segment">Volumes fill most compliant lung segment&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="tetra-requirements.html#_5_individualized_management_for_clinical_improvement">Individualized management for clinical improvement&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="tetra-requirements.html#_9_patients_deteriorate_and_recover_at_different_rates.">Patients deteriorate and recover at different rates.&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_2_matching_protocols">2: Matching Protocols&lt;/h3>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="paragraph">
+&lt;p>As a &lt;strong>Clinician&lt;/strong> I want to &lt;strong>[object Object]&lt;/strong> so that I can &lt;strong>maintain matching protocols per patient volume&lt;/strong>.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_example_2">Example:&lt;/h4>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_derived_from_2">&lt;strong>Derived From:&lt;/strong>&lt;/h4>
 &lt;div class="ulist">
 &lt;ul>
 &lt;li>

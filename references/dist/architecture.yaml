@@ -95,6 +95,20 @@ elements:
     example: >-
       Adjusting flow for each patient, decreasing PIP for the healthier lungs,
       and increasing PIP for the less healthy patient.
+  2-UserStories/2-MatchingProtocols.yaml: &ref_12
+    id: 2
+    name: Matching Protocols
+    actor: Clinician
+    behavior:
+      activity-that-manages-matching-protocols: null
+    rationale: maintain matching protocols per patient volume
+    derivedFrom:
+      - 1-StakeholderNeeds/01-VolumesFillMostCompliantLungSegment.yaml
+      - >-
+        1-StakeholderNeeds/05-IndividualizedManagementForClinicalImprovement.yaml
+      - 1-StakeholderNeeds/09-PatientsDeteriorateAndRecoverAtDifferentRates.yaml
+    example:
+      example-here: null
 package:
   name: tetra
   version: 0.1.0
@@ -122,3 +136,4 @@ generationDate: 9/6/2021
   - *ref_10
 2-UserStories:
   - *ref_11
+  - *ref_12
