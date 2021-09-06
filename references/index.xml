@@ -14,7 +14,7 @@
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;a class="image" href="https://opensource.org/licenses/MIT">&lt;img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License"/>&lt;/a>&lt;/span>
 &lt;span class="image">&lt;a class="image" href="https://github.com/tetrabiodistributed/tetra.git">&lt;img src="https://img.shields.io/badge/Contribute%20on-GitHub-orange" alt="Contribute on GitHub"/>&lt;/a>&lt;/span>
-&lt;span class="image">&lt;a class="image" href="https://tetrabiodistributed.github.io/tetra/tetra-requirements.pdf">&lt;img src="https://img.shields.io/badge/Download%20-PDF-blue" alt="Download PDF"/>&lt;/a>&lt;/span>&lt;/p>
+&lt;span class="image">&lt;a class="image" href="../dist/tetra-requirements.pdf">&lt;img src="https://img.shields.io/badge/Download%20-PDF-blue" alt="Download PDF"/>&lt;/a>&lt;/span>&lt;/p>
 &lt;/div>
 &lt;div style="page-break-after: always;">&lt;/div>
 &lt;/div>
@@ -948,7 +948,7 @@
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;a class="image" href="https://opensource.org/licenses/MIT">&lt;img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License"/>&lt;/a>&lt;/span>
 &lt;span class="image">&lt;a class="image" href="https://github.com/tetrabiodistributed/tetra.git">&lt;img src="https://img.shields.io/badge/Contribute%20on-GitHub-orange" alt="Contribute on GitHub"/>&lt;/a>&lt;/span>
-&lt;span class="image">&lt;a class="image" href="https://tetrabiodistributed.github.io/tetra/tetra-requirements.pdf">&lt;img src="https://img.shields.io/badge/Download%20-PDF-blue" alt="Download PDF"/>&lt;/a>&lt;/span>&lt;/p>
+&lt;span class="image">&lt;a class="image" href="../dist/tetra-requirements.pdf">&lt;img src="https://img.shields.io/badge/Download%20-PDF-blue" alt="Download PDF"/>&lt;/a>&lt;/span>&lt;/p>
 &lt;/div>
 &lt;div style="page-break-after: always;">&lt;/div>
 &lt;/div>
